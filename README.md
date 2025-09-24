@@ -25,8 +25,15 @@ pip install -r requirements.txt
 - Seaborn, Matplotlib  
 - Scikit-learn  
 
-## Files in this Repository
-- `task1code.py` → Code for preprocessing
-- `titanic.csv` → Raw dataset
-- `titanic_cleaned.csv` → Cleaned dataset
+## How to Run
+1. Clone this repository or download the files.
+2. Make sure you have installed Python 3.x and all the dependencies (see Requirements).
+3. Place the raw dataset (`titanic.csv`) in the same folder as `task1code.py`.
+4. Run the script:
+
+```bash
+python task1code.py
+```
+5. After execution, the cleaned dataset will be saved as titanic_cleaned.csv.
+
 
