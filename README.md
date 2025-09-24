@@ -34,6 +34,6 @@ pip install -r requirements.txt
 ```bash
 python task1code.py
 ```
-5. After execution, the cleaned dataset will be saved as titanic_cleaned.csv.
+5. After execution, the cleaned dataset will be saved as `titanic_cleaned.csv`.
 
 
