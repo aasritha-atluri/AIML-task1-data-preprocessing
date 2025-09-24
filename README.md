@@ -7,8 +7,8 @@ The goal of this task is to clean and preprocess raw data so it is ready for Mac
 Install all dependencies before running:
 
 ```bash
-pip install -r requirements.txt```
-
+pip install -r requirements.txt
+```bash
 
 ## Steps Done
 - Imported Titanic dataset
