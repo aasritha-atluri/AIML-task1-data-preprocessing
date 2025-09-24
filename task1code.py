@@ -1,4 +1,4 @@
-#install these using "pip install" if these are not present in your computer"
+#install these using "pip install" if these are not present in your computer
 import pandas as pd
 import numpy as np
 import seaborn as sns
