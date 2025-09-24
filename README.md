@@ -9,6 +9,7 @@ Install all dependencies before running:
 ```bash
 pip install -r requirements.txt
 
+
 ## Steps Done
 - Imported Titanic dataset
 - Checked null values and data types
