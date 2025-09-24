@@ -41,3 +41,4 @@ print("Final shape:", df.shape)
 
 # Save cleaned data
 df.to_csv("titanic_cleaned.csv", index=False)
+print("Cleaned dataset saved as titanic_cleaned.csv")
