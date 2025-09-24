@@ -34,8 +34,9 @@ pip install -r requirements.txt
 ```bash
 python task1code.py
 ```
-5.A boxplot window will appear for outlier visualization.
+5. A boxplot window will appear for outlier visualization.
 👉 Close the boxplot window to let the script continue.
+
 6. After execution, the cleaned dataset will be saved as `titanic_cleaned.csv`.
 
 
