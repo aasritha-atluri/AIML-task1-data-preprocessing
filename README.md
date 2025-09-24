@@ -8,7 +8,7 @@ Install all dependencies before running:
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 ## Steps Done
 - Imported Titanic dataset
